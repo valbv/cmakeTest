@@ -1,3 +1,7 @@
+bin/*
+bin*/*
+build*/
+
 # Prerequisites
 *.d
 
